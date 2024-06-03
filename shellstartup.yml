@@ -63,118 +63,6 @@ proxies:
       headers:
         Host: vless.gzdiky.online
     udp: true
-  - name: 152.70.117.136
-    server: 152.70.117.136
-    port: 443
-    client-fingerprint: random
-    type: vless
-    uuid: ce5ccf97-6ab6-4be2-95ed-00853440be83
-    tls: true
-    tfo: false
-    skip-cert-verify: true
-    servername: vless.gzdiky.online
-    network: ws
-    ws-opts:
-      path: /?ed=2560
-      headers:
-        Host: vless.gzdiky.online
-    udp: true
-  - name: 155.248.196.218
-    server: 155.248.196.218
-    port: 443
-    client-fingerprint: random
-    type: vless
-    uuid: ce5ccf97-6ab6-4be2-95ed-00853440be83
-    tls: true
-    tfo: false
-    skip-cert-verify: true
-    servername: vless.gzdiky.online
-    network: ws
-    ws-opts:
-      path: /?ed=2560
-      headers:
-        Host: vless.gzdiky.online
-    udp: true
-  - name: 34.116.203.148
-    server: 34.116.203.148
-    port: 443
-    client-fingerprint: random
-    type: vless
-    uuid: ce5ccf97-6ab6-4be2-95ed-00853440be83
-    tls: true
-    tfo: false
-    skip-cert-verify: true
-    servername: vless.gzdiky.online
-    network: ws
-    ws-opts:
-      path: /?ed=2560
-      headers:
-        Host: vless.gzdiky.online
-    udp: true
-  - name: 34.116.131.175
-    server: 34.116.131.175
-    port: 443
-    client-fingerprint: random
-    type: vless
-    uuid: ce5ccf97-6ab6-4be2-95ed-00853440be83
-    tls: true
-    tfo: false
-    skip-cert-verify: true
-    servername: vless.gzdiky.online
-    network: ws
-    ws-opts:
-      path: /?ed=2560
-      headers:
-        Host: vless.gzdiky.online
-    udp: true
-  - name: 34.154.208.160
-    server: 34.154.208.160
-    port: 443
-    client-fingerprint: random
-    type: vless
-    uuid: ce5ccf97-6ab6-4be2-95ed-00853440be83
-    tls: true
-    tfo: false
-    skip-cert-verify: true
-    servername: vless.gzdiky.online
-    network: ws
-    ws-opts:
-      path: /?ed=2560
-      headers:
-        Host: vless.gzdiky.online
-    udp: true
-  - name: 34.159.252.21
-    server: 34.159.252.21
-    port: 443
-    client-fingerprint: random
-    type: vless
-    uuid: ce5ccf97-6ab6-4be2-95ed-00853440be83
-    tls: true
-    tfo: false
-    skip-cert-verify: true
-    servername: vless.gzdiky.online
-    network: ws
-    ws-opts:
-      path: /?ed=2560
-      headers:
-        Host: vless.gzdiky.online
-    udp: true
-  - name: 34.65.160.189
-    server: 34.65.160.189
-    port: 443
-    client-fingerprint: random
-    type: vless
-    uuid: ce5ccf97-6ab6-4be2-95ed-00853440be83
-    tls: true
-    tfo: false
-    skip-cert-verify: true
-    servername: vless.gzdiky.online
-    network: ws
-    ws-opts:
-      path: /?ed=2560
-      headers:
-        Host: vless.gzdiky.online
-    udp: true
   - name: 34.118.67.161
     server: 34.118.67.161
     port: 443
@@ -191,87 +79,7 @@ proxies:
       headers:
         Host: vless.gzdiky.online
     udp: true
-  - name: 34.159.73.193
-    server: 34.159.73.193
-    port: 443
-    client-fingerprint: random
-    type: vless
-    uuid: ce5ccf97-6ab6-4be2-95ed-00853440be83
-    tls: true
-    tfo: false
-    skip-cert-verify: true
-    servername: vless.gzdiky.online
-    network: ws
-    ws-opts:
-      path: /?ed=2560
-      headers:
-        Host: vless.gzdiky.online
-    udp: true
-  - name: 34.154.125.224
-    server: 34.154.125.224
-    port: 443
-    client-fingerprint: random
-    type: vless
-    uuid: ce5ccf97-6ab6-4be2-95ed-00853440be83
-    tls: true
-    tfo: false
-    skip-cert-verify: true
-    servername: vless.gzdiky.online
-    network: ws
-    ws-opts:
-      path: /?ed=2560
-      headers:
-        Host: vless.gzdiky.online
-    udp: true
-  - name: 34.32.237.103
-    server: 34.32.237.103
-    port: 443
-    client-fingerprint: random
-    type: vless
-    uuid: ce5ccf97-6ab6-4be2-95ed-00853440be83
-    tls: true
-    tfo: false
-    skip-cert-verify: true
-    servername: vless.gzdiky.online
-    network: ws
-    ws-opts:
-      path: /?ed=2560
-      headers:
-        Host: vless.gzdiky.online
-    udp: true
-  - name: 34.89.171.21
-    server: 34.89.171.21
-    port: 443
-    client-fingerprint: random
-    type: vless
-    uuid: ce5ccf97-6ab6-4be2-95ed-00853440be83
-    tls: true
-    tfo: false
-    skip-cert-verify: true
-    servername: vless.gzdiky.online
-    network: ws
-    ws-opts:
-      path: /?ed=2560
-      headers:
-        Host: vless.gzdiky.online
-    udp: true
   - name: IAD
-    server: 47.76.37.57
-    port: 2087
-    client-fingerprint: random
-    type: vless
-    uuid: ce5ccf97-6ab6-4be2-95ed-00853440be83
-    tls: true
-    tfo: false
-    skip-cert-verify: true
-    servername: vless.gzdiky.online
-    network: ws
-    ws-opts:
-      path: /?ed=2560
-      headers:
-        Host: vless.gzdiky.online
-    udp: true
-  - name: IAD 2
     server: 8.219.174.213
     port: 2087
     client-fingerprint: random
@@ -287,39 +95,7 @@ proxies:
       headers:
         Host: vless.gzdiky.online
     udp: true
-  - name: CPH
-    server: 8.219.104.37
-    port: 2096
-    client-fingerprint: random
-    type: vless
-    uuid: ce5ccf97-6ab6-4be2-95ed-00853440be83
-    tls: true
-    tfo: false
-    skip-cert-verify: true
-    servername: vless.gzdiky.online
-    network: ws
-    ws-opts:
-      path: /?ed=2560
-      headers:
-        Host: vless.gzdiky.online
-    udp: true
-  - name: CPH 2
-    server: 8.219.78.188
-    port: 2096
-    client-fingerprint: random
-    type: vless
-    uuid: ce5ccf97-6ab6-4be2-95ed-00853440be83
-    tls: true
-    tfo: false
-    skip-cert-verify: true
-    servername: vless.gzdiky.online
-    network: ws
-    ws-opts:
-      path: /?ed=2560
-      headers:
-        Host: vless.gzdiky.online
-    udp: true
-  - name: IAD 3
+  - name: IAD 2
     server: 8.222.244.192
     port: 2083
     client-fingerprint: random
@@ -335,7 +111,7 @@ proxies:
       headers:
         Host: vless.gzdiky.online
     udp: true
-  - name: CPH 3
+  - name: CPH
     server: 8.222.181.117
     port: 2096
     client-fingerprint: random
@@ -351,73 +127,9 @@ proxies:
       headers:
         Host: vless.gzdiky.online
     udp: true
-  - name: IAD 4
+  - name: IAD 3
     server: 47.237.84.173
     port: 2083
-    client-fingerprint: random
-    type: vless
-    uuid: ce5ccf97-6ab6-4be2-95ed-00853440be83
-    tls: true
-    tfo: false
-    skip-cert-verify: true
-    servername: vless.gzdiky.online
-    network: ws
-    ws-opts:
-      path: /?ed=2560
-      headers:
-        Host: vless.gzdiky.online
-    udp: true
-  - name: IAD 5
-    server: 47.76.37.57
-    port: 2083
-    client-fingerprint: random
-    type: vless
-    uuid: ce5ccf97-6ab6-4be2-95ed-00853440be83
-    tls: true
-    tfo: false
-    skip-cert-verify: true
-    servername: vless.gzdiky.online
-    network: ws
-    ws-opts:
-      path: /?ed=2560
-      headers:
-        Host: vless.gzdiky.online
-    udp: true
-  - name: IAD 6
-    server: 8.222.244.192
-    port: 2087
-    client-fingerprint: random
-    type: vless
-    uuid: ce5ccf97-6ab6-4be2-95ed-00853440be83
-    tls: true
-    tfo: false
-    skip-cert-verify: true
-    servername: vless.gzdiky.online
-    network: ws
-    ws-opts:
-      path: /?ed=2560
-      headers:
-        Host: vless.gzdiky.online
-    udp: true
-  - name: IAD 7
-    server: 8.219.98.13
-    port: 2087
-    client-fingerprint: random
-    type: vless
-    uuid: ce5ccf97-6ab6-4be2-95ed-00853440be83
-    tls: true
-    tfo: false
-    skip-cert-verify: true
-    servername: vless.gzdiky.online
-    network: ws
-    ws-opts:
-      path: /?ed=2560
-      headers:
-        Host: vless.gzdiky.online
-    udp: true
-  - name: CPH 4
-    server: 8.222.244.192
-    port: 2096
     client-fingerprint: random
     type: vless
     uuid: ce5ccf97-6ab6-4be2-95ed-00853440be83
@@ -447,7 +159,7 @@ proxies:
       headers:
         Host: vless.gzdiky.online
     udp: true
-  - name: IAD 8
+  - name: IAD 4
     server: 8.219.174.213
     port: 2083
     client-fingerprint: random
@@ -479,7 +191,7 @@ proxies:
       headers:
         Host: vless.gzdiky.online
     udp: true
-  - name: IAD 9
+  - name: IAD 5
     server: 47.237.95.13
     port: 2087
     client-fingerprint: random
@@ -527,7 +239,7 @@ proxies:
       headers:
         Host: vless.gzdiky.online
     udp: true
-  - name: CPH 5
+  - name: CPH 2
     server: 8.219.194.170
     port: 2096
     client-fingerprint: random
@@ -559,7 +271,7 @@ proxies:
       headers:
         Host: vless.gzdiky.online
     udp: true
-  - name: IAD 10
+  - name: IAD 6
     server: 47.237.94.140
     port: 2083
     client-fingerprint: random
@@ -591,7 +303,7 @@ proxies:
       headers:
         Host: vless.gzdiky.online
     udp: true
-  - name: IAD 11
+  - name: IAD 7
     server: 8.219.120.87
     port: 2083
     client-fingerprint: random
@@ -623,7 +335,7 @@ proxies:
       headers:
         Host: vless.gzdiky.online
     udp: true
-  - name: IAD 12
+  - name: 🇹🇼 TW
     server: 4.255.56.138
     port: 443
     client-fingerprint: random
@@ -639,7 +351,7 @@ proxies:
       headers:
         Host: vless.gzdiky.online
     udp: true
-  - name: IAD 13
+  - name: 🇹🇼 TW 2
     server: 20.185.28.234
     port: 44056
     client-fingerprint: random
@@ -671,7 +383,7 @@ proxies:
       headers:
         Host: vless.gzdiky.online
     udp: true
-  - name: ARN
+  - name: 🇰🇷 KR
     server: 20.240.254.247
     port: 8443
     client-fingerprint: random
@@ -687,7 +399,7 @@ proxies:
       headers:
         Host: vless.gzdiky.online
     udp: true
-  - name: IAD 14
+  - name: 🇹🇼 TW 3
     server: 172.190.150.25
     port: 8443
     client-fingerprint: random
@@ -703,7 +415,7 @@ proxies:
       headers:
         Host: vless.gzdiky.online
     udp: true
-  - name: CPH 6
+  - name: CPH 3
     server: 51.120.240.115
     port: 2087
     client-fingerprint: random
@@ -719,7 +431,7 @@ proxies:
       headers:
         Host: vless.gzdiky.online
     udp: true
-  - name: 🇫🇷 FRA 5
+  - name: 🇰🇷 KR 2
     server: 20.170.41.153
     port: 443
     client-fingerprint: random
@@ -767,7 +479,7 @@ proxies:
       headers:
         Host: vless.gzdiky.online
     udp: true
-  - name: YYZ
+  - name: 🇹🇼 TW 4
     server: 20.220.204.217
     port: 443
     client-fingerprint: random
@@ -783,7 +495,7 @@ proxies:
       headers:
         Host: vless.gzdiky.online
     udp: true
-  - name: IAD 15
+  - name: 🇰🇷 KR 3
     server: 8.210.65.1
     port: 8443
     client-fingerprint: random
@@ -799,7 +511,7 @@ proxies:
       headers:
         Host: vless.gzdiky.online
     udp: true
-  - name: 🇰🇷 KR
+  - name: 🇰🇷 KR 4
     server: 8.210.192.93
     port: 8443
     client-fingerprint: random
@@ -815,7 +527,7 @@ proxies:
       headers:
         Host: vless.gzdiky.online
     udp: true
-  - name: 🇹🇼 TW
+  - name: 🇹🇼 TW 5
     server: 8.217.164.10
     port: 8443
     client-fingerprint: random
@@ -831,7 +543,7 @@ proxies:
       headers:
         Host: vless.gzdiky.online
     udp: true
-  - name: IAD 16
+  - name: 🇰🇷 KR 5
     server: 47.242.232.14
     port: 8443
     client-fingerprint: random
@@ -847,7 +559,7 @@ proxies:
       headers:
         Host: vless.gzdiky.online
     udp: true
-  - name: IAD 17
+  - name: 🇰🇷 KR 6
     server: 8.217.248.220
     port: 8443
     client-fingerprint: random
@@ -4495,7 +4207,7 @@ proxies:
       headers:
         Host: vless.gzdiky.online
     udp: true
-  - name: IAD 18
+  - name: IAD 8
     server: 47.89.191.155
     port: 443
     client-fingerprint: random
@@ -4853,56 +4565,38 @@ proxy-groups:
       - 优选IP自建
       - 优选IP自建 2
       - 优选IP自建 3
-      - 152.70.117.136
-      - 155.248.196.218
-      - 34.116.203.148
-      - 34.116.131.175
-      - 34.154.208.160
-      - 34.159.252.21
-      - 34.65.160.189
       - 34.118.67.161
-      - 34.159.73.193
-      - 34.154.125.224
-      - 34.32.237.103
-      - 34.89.171.21
       - IAD
       - IAD 2
       - CPH
-      - CPH 2
       - IAD 3
-      - CPH 3
-      - IAD 4
-      - IAD 5
-      - IAD 6
-      - IAD 7
-      - CPH 4
       - 🇫🇷 FRA
-      - IAD 8
+      - IAD 4
       - AMS
-      - IAD 9
+      - IAD 5
       - 🇫🇷 FRA 2
       - 🇫🇷 FRA 3
-      - CPH 5
+      - CPH 2
       - 🇫🇷 FRA 4
-      - IAD 10
+      - IAD 6
       - AMS 2
-      - IAD 11
+      - IAD 7
       - AMS 3
-      - IAD 12
-      - IAD 13
+      - 🇹🇼 TW
+      - 🇹🇼 TW 2
       - LHR
-      - ARN
-      - IAD 14
-      - CPH 6
-      - 🇫🇷 FRA 5
+      - 🇰🇷 KR
+      - 🇹🇼 TW 3
+      - CPH 3
+      - 🇰🇷 KR 2
       - AMS 4
       - LHR 2
-      - YYZ
-      - IAD 15
-      - 🇰🇷 KR
-      - 🇹🇼 TW
-      - IAD 16
-      - IAD 17
+      - 🇹🇼 TW 4
+      - 🇰🇷 KR 3
+      - 🇰🇷 KR 4
+      - 🇹🇼 TW 5
+      - 🇰🇷 KR 5
+      - 🇰🇷 KR 6
       - 🇭🇰 HKG
       - 🇭🇰 HKG 2
       - 🇭🇰 HKG 3
@@ -5130,7 +4824,7 @@ proxy-groups:
       - 🇭🇰 HKG 64
       - 🇭🇰 HKG 65
       - 🇭🇰 HKG 66
-      - IAD 18
+      - IAD 8
       - 🇭🇰 HKG 67
       - 🇭🇰 HKG 68
       - 🇭🇰 HKG 69
@@ -5493,19 +5187,9 @@ proxy-groups:
       - IAD 5
       - IAD 6
       - IAD 7
-      - IAD 8
-      - IAD 9
-      - IAD 10
-      - IAD 11
-      - IAD 12
-      - IAD 13
-      - IAD 14
-      - IAD 15
-      - IAD 16
-      - IAD 17
       - LAX
       - LAX 2
-      - IAD 18
+      - IAD 8
       - SJC
   - name: 🇹🇼 台湾节点
     type: load-balance
@@ -5515,6 +5199,10 @@ proxy-groups:
     tolerance: 50
     proxies:
       - 🇹🇼 TW
+      - 🇹🇼 TW 2
+      - 🇹🇼 TW 3
+      - 🇹🇼 TW 4
+      - 🇹🇼 TW 5
   - name: 🇸🇬 狮城节点
     type: load-balance
     strategy: consistent-hashing
@@ -5684,6 +5372,11 @@ proxy-groups:
     tolerance: 50
     proxies:
       - 🇰🇷 KR
+      - 🇰🇷 KR 2
+      - 🇰🇷 KR 3
+      - 🇰🇷 KR 4
+      - 🇰🇷 KR 5
+      - 🇰🇷 KR 6
   - name: ⚖️ 负载均衡-散列
     type: load-balance
     url: http://www.google.com/generate_204
@@ -5693,56 +5386,38 @@ proxy-groups:
       - 优选IP自建
       - 优选IP自建 2
       - 优选IP自建 3
-      - 152.70.117.136
-      - 155.248.196.218
-      - 34.116.203.148
-      - 34.116.131.175
-      - 34.154.208.160
-      - 34.159.252.21
-      - 34.65.160.189
       - 34.118.67.161
-      - 34.159.73.193
-      - 34.154.125.224
-      - 34.32.237.103
-      - 34.89.171.21
       - IAD
       - IAD 2
       - CPH
-      - CPH 2
       - IAD 3
-      - CPH 3
-      - IAD 4
-      - IAD 5
-      - IAD 6
-      - IAD 7
-      - CPH 4
       - 🇫🇷 FRA
-      - IAD 8
+      - IAD 4
       - AMS
-      - IAD 9
+      - IAD 5
       - 🇫🇷 FRA 2
       - 🇫🇷 FRA 3
-      - CPH 5
+      - CPH 2
       - 🇫🇷 FRA 4
-      - IAD 10
+      - IAD 6
       - AMS 2
-      - IAD 11
+      - IAD 7
       - AMS 3
-      - IAD 12
-      - IAD 13
+      - 🇹🇼 TW
+      - 🇹🇼 TW 2
       - LHR
-      - ARN
-      - IAD 14
-      - CPH 6
-      - 🇫🇷 FRA 5
+      - 🇰🇷 KR
+      - 🇹🇼 TW 3
+      - CPH 3
+      - 🇰🇷 KR 2
       - AMS 4
       - LHR 2
-      - YYZ
-      - IAD 15
-      - 🇰🇷 KR
-      - 🇹🇼 TW
-      - IAD 16
-      - IAD 17
+      - 🇹🇼 TW 4
+      - 🇰🇷 KR 3
+      - 🇰🇷 KR 4
+      - 🇹🇼 TW 5
+      - 🇰🇷 KR 5
+      - 🇰🇷 KR 6
       - 🇭🇰 HKG
       - 🇭🇰 HKG 2
       - 🇭🇰 HKG 3
@@ -5970,7 +5645,7 @@ proxy-groups:
       - 🇭🇰 HKG 64
       - 🇭🇰 HKG 65
       - 🇭🇰 HKG 66
-      - IAD 18
+      - IAD 8
       - 🇭🇰 HKG 67
       - 🇭🇰 HKG 68
       - 🇭🇰 HKG 69
@@ -6000,56 +5675,38 @@ proxy-groups:
       - 优选IP自建
       - 优选IP自建 2
       - 优选IP自建 3
-      - 152.70.117.136
-      - 155.248.196.218
-      - 34.116.203.148
-      - 34.116.131.175
-      - 34.154.208.160
-      - 34.159.252.21
-      - 34.65.160.189
       - 34.118.67.161
-      - 34.159.73.193
-      - 34.154.125.224
-      - 34.32.237.103
-      - 34.89.171.21
       - IAD
       - IAD 2
       - CPH
-      - CPH 2
       - IAD 3
-      - CPH 3
-      - IAD 4
-      - IAD 5
-      - IAD 6
-      - IAD 7
-      - CPH 4
       - 🇫🇷 FRA
-      - IAD 8
+      - IAD 4
       - AMS
-      - IAD 9
+      - IAD 5
       - 🇫🇷 FRA 2
       - 🇫🇷 FRA 3
-      - CPH 5
+      - CPH 2
       - 🇫🇷 FRA 4
-      - IAD 10
+      - IAD 6
       - AMS 2
-      - IAD 11
+      - IAD 7
       - AMS 3
-      - IAD 12
-      - IAD 13
+      - 🇹🇼 TW
+      - 🇹🇼 TW 2
       - LHR
-      - ARN
-      - IAD 14
-      - CPH 6
-      - 🇫🇷 FRA 5
+      - 🇰🇷 KR
+      - 🇹🇼 TW 3
+      - CPH 3
+      - 🇰🇷 KR 2
       - AMS 4
       - LHR 2
-      - YYZ
-      - IAD 15
-      - 🇰🇷 KR
-      - 🇹🇼 TW
-      - IAD 16
-      - IAD 17
+      - 🇹🇼 TW 4
+      - 🇰🇷 KR 3
+      - 🇰🇷 KR 4
+      - 🇹🇼 TW 5
+      - 🇰🇷 KR 5
+      - 🇰🇷 KR 6
       - 🇭🇰 HKG
       - 🇭🇰 HKG 2
       - 🇭🇰 HKG 3
@@ -6277,7 +5934,7 @@ proxy-groups:
       - 🇭🇰 HKG 64
       - 🇭🇰 HKG 65
       - 🇭🇰 HKG 66
-      - IAD 18
+      - IAD 8
       - 🇭🇰 HKG 67
       - 🇭🇰 HKG 68
       - 🇭🇰 HKG 69
