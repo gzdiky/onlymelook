@@ -1,15 +1,8 @@
-﻿IP地址,端口,TLS,数据中心,地区,城市,网络延迟,下载速度
-20.185.28.234,44056,true,IAD,North America,Ashburn,228 ms,6227 kB/s
-4.255.56.138,443,true,IAD,North America,Ashburn,284 ms,5679 kB/s
-51.107.13.85,8443,true,MXP,Europe,Milan,277 ms,5330 kB/s
-4.255.56.137,443,true,IAD,North America,Ashburn,281 ms,4316 kB/s
-172.190.150.25,8443,true,IAD,North America,Ashburn,276 ms,3915 kB/s
-20.62.202.159,443,true,IAD,North America,Ashburn,274 ms,2291 kB/s
-20.240.254.247,8443,true,ARN,Europe,Stockholm,327 ms,2228 kB/s
-51.120.240.115,8080,true,CPH,Europe,Copenhagen,303 ms,1543 kB/s
-20.108.51.255,443,true,LHR,Europe,London,282 ms,1513 kB/s
-51.120.240.115,2087,true,CPH,Europe,Copenhagen,302 ms,1490 kB/s
-20.220.204.217,443,true,YYZ,North America,Toronto,223 ms,713 kB/s
-20.170.41.153,443,true,FRA,Europe,Frankfurt,281 ms,547 kB/s
-52.151.81.2,2083,true,LHR,Europe,London,283 ms,435 kB/s
-52.137.60.154,443,true,AMS,Europe,Amsterdam,294 ms,0 kB/s
+IP地址	端口	TLS	数据中心	地区	城市	网络延迟	下载速度
+172.190.150.25	8443	TRUE	IAD	North America	Ashburn	281 ms	40.33 kB/s
+20.83.149.174	443	TRUE	IAD	North America	Ashburn	277 ms	31.16 kB/s
+20.108.51.255	443	TRUE	LHR	Europe	London	291 ms	30.84 kB/s
+20.62.202.159	443	TRUE	IAD	North America	Ashburn	290 ms	24.02 kB/s
+20.240.254.247	8443	TRUE	ARN	Europe	Stockholm	324 ms	19.45 kB/s
+20.170.41.153	443	TRUE	FRA	Europe	Frankfurt	289 ms	15.73 kB/s
+52.137.60.154	443	TRUE	AMS	Europe	Amsterdam	294 ms	15.3 kB/s
