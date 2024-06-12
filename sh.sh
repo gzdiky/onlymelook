@@ -1,7 +1,6 @@
 #!/bin/bash
 # Written by FalsePhilosopher
 echo "正在安装PS4越狱服务器 PPPWN 相关进程..."
-install_packages
 
 # Function to install required packages
 install_packages() {
