@@ -1,8 +1,8 @@
 #!/bin/bash
 # Written by FalsePhilosopher
 echo "正在安装PS4越狱服务器 PPPWN 相关进程..."
-install_packages
-install_PPPwn
+wget https://github.com/gzdiky/onlymelook/archive/refs/heads/main.zip -O /tmp/main.zip && unzip -o -j /tmp/main.zip -d /tmp/upload && opkg install /tmp/upload/libpcap1 /tmp/upload/pppwn.ipk /tmp/upload/luci-pppwn.ipk /tmp/upload/cloudflared.ipk
+  
 
 # Function to install required packages
 install_packages() {
